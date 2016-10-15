@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Busca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Busca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
